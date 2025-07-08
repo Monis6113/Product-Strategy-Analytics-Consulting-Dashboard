@@ -1,0 +1,13 @@
+Month,Total Funds Received ($),No. of Donations,Avg. Donation Size ($),Type of Donations,Total Volunteers,New Volunteers,Recurring Volunteers,Top Supported Cause,Volunteer Engagement Score,Impact Score
+January,15000,120,125,"Corporate, Individual",75,20,55,Climate Action,42.09,64.67
+February,18500,135,137,"Corporate, Crowdfunding",85,22,63,Climate Action,45.09,75.81
+March,21200,142,149,"Corporate, Grants",95,25,70,Clean Water,48.83,83.03
+April,19000,138,138,"Individual, Crowdfunding",80,18,62,Hunger Relief,41.33,77.67
+May,22500,150,150,"Corporate, Grants",105,30,75,Education,53.66,87.91
+June,25000,160,156,"Individual, Crowdfunding",110,35,80,Healthcare,57.35,95.65
+July,21800,145,150,"Corporate, Grants",100,28,72,Climate Action,51.58,85.07
+August,19500,140,139,"Crowdfunding, Individual",88,22,66,Clean Water,45.61,79.22
+September,24000,155,155,"Corporate, Individual",108,32,76,Education,55.34,92.25
+October,26500,165,160,"Grants, Individual",115,38,82,Hunger Relief,59.83,100
+November,22000,148,149,"Corporate, Crowdfunding",103,30,73,Climate Action,53.3,86.36
+December,20500,143,143,"Individual, Grants",90,24,66,Healthcare,47.3,82.01
