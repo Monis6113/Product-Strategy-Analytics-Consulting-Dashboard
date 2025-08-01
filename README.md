@@ -38,4 +38,4 @@ Feerlis enables transparent and impactful fundraising using blockchain technolog
 - Improved transparency and reporting across key user groups
 - Aligned with product frameworks (AARRR, JTBD) and GTM strategy
 
-## Link For Tableau Repoaitory: https://public.tableau.com/app/profile/monis.6822/viz/CSRNew/Dashboard1 
+## Link For Tableau Repository: https://public.tableau.com/app/profile/monis.6822/viz/CSRNew/Dashboard1 
